@@ -1,0 +1,15 @@
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/bin/Debug/net6.0/programmingSolution
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/bin/Debug/net6.0/programmingSolution.deps.json
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/bin/Debug/net6.0/programmingSolution.runtimeconfig.json
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/bin/Debug/net6.0/programmingSolution.dll
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/bin/Debug/net6.0/programmingSolution.pdb
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.csproj.AssemblyReference.cache
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.AssemblyInfoInputs.cache
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.AssemblyInfo.cs
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.csproj.CoreCompileInputs.cache
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.dll
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/refint/programmingSolution.dll
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.pdb
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/programmingSolution.genruntimeconfig.cache
+/Users/maximshevtsov/Library/Mobile Documents/com~apple~CloudDocs/Я Хакер/Geek Brains/Proverochnaya Rabota/Proverochnaya-Rabota/programmingSolution/obj/Debug/net6.0/ref/programmingSolution.dll
