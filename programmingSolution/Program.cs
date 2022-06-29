@@ -4,7 +4,6 @@ string[] input = { "1234", "1679", "089", "Maksim", "Max" };
 int resultLength = 0;
 
 // Getting length of result array
-resultLength = lengthOfResult(input);
 int lengthOfResult(string[] array)
 {
     int result = 0;
@@ -19,11 +18,8 @@ int lengthOfResult(string[] array)
     return result;
 }
 
-// Creating result array
-string[] result = new string[resultLength];
-
 // Populating result array 
-result = keepingSmallerThanThreeChar(input);
+string[] result = keepingSmallerThanThreeChar(input);
 string[] keepingSmallerThanThreeChar(string[] array)
 {
     string[] result = new string[lengthOfResult(array)];
